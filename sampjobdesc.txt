@@ -1,0 +1,1 @@
+We are looking for a Python Developer with knowledge of Machine Learning, NLP, SQL, TensorFlow, Deep Learning, Flask, and Data Analysis. Candidate should be experienced in developing AI-based applications.
